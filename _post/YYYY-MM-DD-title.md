@@ -1,1 +1,4 @@
-YYYY-MM-DD: 28/03/2025
+---
+title: "Welcome to my blog"
+date: 2025-0-28
+---
